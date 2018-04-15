@@ -1,0 +1,121 @@
+/*
+* @Author: asus
+* @Date:   2018-03-09 08:58:43
+* @Last Modified by:   Administrator
+* @Last Modified time: 2018-03-18 09:05:12
+*/
+.zhengmian{
+	width: 331px;
+	height: 667px;
+	background: #fff;
+	margin: 0 auto; 
+	border-radius: 52px;
+	border: 5px solid #e5d0bb;
+}
+.head{
+	width: 331px;
+	height: 66px;
+	background: #fff;
+	border-top-left-radius: 52px;
+	border-top-right-radius: 52px;
+	overflow: hidden;
+
+}
+.ping{
+	width: 311px;
+	height: 523px;
+	background: red;
+	border-left:10px solid #fff;
+    border-right:10px solid #fff; 
+    position: relative;
+    
+}
+.dibu{
+	width: 331px;
+	height: 66px;
+	background: #fff;
+	border-bottom-left-radius: 40px;
+	border-bottom-right-radius: 40px;
+	overflow: hidden;
+}
+.anjian{
+	border-radius: 50%;
+	background: #fff;
+	height: 50px;
+	width: 50px;
+	margin:  0 auto;
+	margin-top: 10px;
+	border:3px solid #553c1e; 
+
+}
+.point{
+	border-radius: 50%;
+	background: #3e3e3e;
+	width: 10px;
+	height: 10px;
+	margin:  0 auto;
+	margin-top: 10px;
+
+}
+.points{
+	width: 98px;
+	height: 14px;
+	
+	margin-top: 10px;
+	margin-left: 109px;
+}
+.points1{
+	border-radius: 50%;
+	background: #3e3e3e;
+	width: 14px;
+	height: 14px;
+	float: left;
+	
+}
+.points2{
+	width: 61px;
+	height: 8px;
+	float: right;
+	background: #3e3e3e;
+	border-radius: 5px;
+	margin-top: 3px;
+	margin-right: 9px;
+}
+.pointleft{
+	width: 5px;
+	height: 30px;
+	background: #e1d1c2;
+	position: absolute;
+	left: -17px;
+	top: 12px;
+	border-radius: 5px;
+}
+.pointleft1{
+	width: 5px;
+	height: 30px;
+	background: #e1d1c2;
+	position: absolute;
+	left: -17px;
+	top: 70px;
+	border-radius: 5px;
+}
+.pointleft2{
+	width: 5px;
+	height: 30px;
+	background: #e1d1c2;
+	position: absolute;
+	left: -17px;
+	top: 110px;
+	border-radius: 5px;
+}
+.pointright{
+	width: 6px;
+	height: 40px;
+	background: #e1d1c2;
+	position: absolute;
+	right: -17px;
+	top: 20px;
+	border-radius: 5px;
+}
+
+
